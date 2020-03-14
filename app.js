@@ -1,4 +1,4 @@
-console.log("This is fun");
+console.log("This is funsy");
 $(".popular-slick").slick({
   dots: true,
   infinite: true,
